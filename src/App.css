@@ -1,11 +1,13 @@
 .App {
 }
 
-#canvas {
-}
-
-#log {
+.box {
     position: fixed;
     top: 0;
     left: 0;
+    width: 350px;
+    height: 150px;
+    overflow: hidden;
+    border: 1px dashed gray;
+    z-index: -1;
 }
