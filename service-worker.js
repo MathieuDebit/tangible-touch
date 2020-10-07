@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tangible-touch/precache-manifest.e73711d4ba9ecf7ee354dc85f5c3499e.js"
+  "/tangible-touch/precache-manifest.8ff998e83f202297e4e751353ac1e808.js"
 );
 
 self.addEventListener('message', (event) => {
